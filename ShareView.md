@@ -39,6 +39,10 @@ With Noco VIEWs, Share & collect customized data that you wish, the way you want
 - List of all created view for a table & their details can be accessed using "Views List" sub-menu associated with 'Share View' menu.
 
 
+--------------------------
+
+
+
 ``` FORM views``` are easy to create using existing fields of database. They simplify recording information from different people on to the database.
 
 ## Features
