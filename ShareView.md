@@ -10,18 +10,18 @@
 Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 </p>
 
-# [v0.20.0] Release note: Shared GRID View
+# [v0.20.0] Release note: FORM & GRID view
 Another step towards better team collaboration  
-With Noco VIEWs, Share customized data that you wish, the way you want!
+With Noco VIEWs, Share & collect customized data that you wish, the way you want!
 
-GRID views are great way of sharing information sub-set to different team/people. They will be able to see all updates being made to the view in real-time, but wont be able to make any changes to your database. Go ahead, create one click shared views. Your team will get information access that they need- without compromising on entire database access.   
+```GRID views``` are great way of sharing information sub-set to different team/people. Shared views are READ only. Your team will get information access that they need- without compromising on entire database access.
 
 ## Features
 - Customize table data into different views depending on the team/ audience
   - Show/ hide columns
   - Filter rows
   - Sort/order contents
-- Create/ share any number of Unique views
+- Create/ share any number of Unique GRIDs
 - Protect shared view access using a Password
 - Copy/duplicate existing view as base for a new view, instead of always starting afresh
 
@@ -37,6 +37,18 @@ GRID views are great way of sharing information sub-set to different team/people
 - [Optional/ default disabled] Need password protection? Enable "Restrict access with a password" & feed passcode
 - Copy shared view link
 - List of all created view for a table & their details can be accessed using "Views List" sub-menu associated with 'Share View' menu.
+
+
+``` FORM views``` are easy to create using existing fields of database. They simplify recording information from different people on to the database.
+
+## Features
+- Customize form view with ease- drag/drop fields that you need
+- Mark fields as must required (mandatory)
+- Validation based on field datatype
+- [Optional] Add additional information/instruction for form fields
+- Create/ share any number of Unique FORMs
+- Protect shared view access using a Password
+- Copy/duplicate existing view as base for a new view, instead of always starting afresh
 
 
 (For discusssion)
