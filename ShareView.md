@@ -37,7 +37,8 @@ With Noco VIEWs, Share & collect customized data that you wish, the way you want
 - Protect shared view access using a Password
 
 ### GRID View: How to Create, Customize & Share?
-![GridShare2](https://user-images.githubusercontent.com/86527202/138718592-f47136b8-ad83-426a-a3f2-ccb0fd8f6ab2.gif)
+![Grid](https://user-images.githubusercontent.com/86527202/138726069-226dc0e6-4064-49d8-8a57-57ddd32009c3.gif)
+
 
 
 ------------------------------------------
@@ -56,5 +57,6 @@ With Noco VIEWs, Share & collect customized data that you wish, the way you want
 - Configure to get form submission updates over mail
 
 ### How to Create, customize & share?
-![FormShare](https://user-images.githubusercontent.com/86527202/138718626-bc206278-0955-420b-95ca-d4261772b6ed.gif)
+![Form](https://user-images.githubusercontent.com/86527202/138726122-85ff583c-4a62-464e-99b0-c6b24f23d037.gif)
+
 
