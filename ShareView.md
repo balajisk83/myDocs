@@ -9,8 +9,18 @@
 <p align="center">
 Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 </p>
+<p align="center">
+    <a href="http://www.nocodb.com"><b>Website</b></a> •
+    <a href="https://discord.gg/5RgZmkW"><b>Discord</b></a> •
+    <a href="https://twitter.com/nocodb"><b>Twitter</b></a> •
+    <a href="https://github.com/nocodb/nocodb"><b>GitHub</b></a> •
+    <a href="https://docs.nocodb.com/"><b>Documentation</b></a>
+</p>
 
-# [v0.80.0](https://github.com/nocodb/nocodb/releases/tag/0.80.0) Release note: FORM & GRID view
+---------------------------------------------------------------------
+
+
+# [[v0.80.0]](https://github.com/nocodb/nocodb/releases/tag/0.80.0) Release note: FORM & GRID view
 Another step towards better team collaboration!
 With Noco VIEWs, Share & collect customized data that you wish, the way you want!
 
@@ -41,7 +51,7 @@ With Noco VIEWs, Share & collect customized data that you wish, the way you want
 - Create/ share any number of unique form views
 - Protect shared view access using a Password
 - Copy existing view as base for a new view, instead of always starting afresh
-- Mark specific fields as *must fill*
+- Mark specific elements as *mandatory*
 - Add additional information/instruction for form fields
 - Configure to get form submission updates over mail
 
