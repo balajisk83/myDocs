@@ -14,7 +14,7 @@ Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadshe
 Another step towards better team collaboration  
 With Noco VIEWs, Share customized data that you wish, the way you want!
 
-GRID views are great way of sharing information sub-set to different set of people. They will be able to see all updates being made to the view in real-time, but wont be able to make any changes to your database. Go ahead, create one click shared views. Your team will get information access that they need- without compromising on entire database access.   
+GRID views are great way of sharing information sub-set to different team/people. They will be able to see all updates being made to the view in real-time, but wont be able to make any changes to your database. Go ahead, create one click shared views. Your team will get information access that they need- without compromising on entire database access.   
 
 ## Features
 - Customize table data into different views depending on the team/ audience
