@@ -10,56 +10,41 @@
 Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 </p>
 
-# [v0.20.0] Release note: FORM & GRID view
-Another step towards better team collaboration  
+# [v0.80.0](https://github.com/nocodb/nocodb/releases/tag/0.80.0) Release note: FORM & GRID view
+Another step towards better team collaboration!
 With Noco VIEWs, Share & collect customized data that you wish, the way you want!
 
-```GRID views``` are great way of sharing information sub-set to different team/people. Shared views are READ only. Your team will get information access that they need- without compromising on entire database access.
+## GRID Views
+```**GRID views**``` are great way of sharing information sub-set to different team/people. Shared grid views are READ only. Your team will get information access that they need- without compromising on complete database access.
 
-## Features
+### Features
 - Customize table data into different views depending on the team/ audience
   - Show/ hide columns
   - Filter rows
   - Sort/order contents
-- Create/ share any number of Unique GRIDs
+- Create/ share any number of unique grid views
+- Copy existing view as base for a new view, instead of always starting afresh
 - Protect shared view access using a Password
-- Copy/duplicate existing view as base for a new view, instead of always starting afresh
 
-### GRID View: How do I create?
-- Open table for which a view needs to be created
-- Click on 'GRID', in 'Share view' tab on Right navigation draw
-- Pick a unique name for this view & submit. Its done!
-- You can now customize view contents (Show/hide columns, Sort & filter rows) as per your need
-
-### GRID View: How do I share? 
-- Click on default/ named view to share on Right navigation draw
-- Click 'Share View', in Advanced tab on Right navigation draw
-- [Optional/ default disabled] Need password protection? Enable "Restrict access with a password" & feed passcode
-- Copy shared view link
-- List of all created view for a table & their details can be accessed using "Views List" sub-menu associated with 'Share View' menu.
+### GRID View: How to Create, Customize & Share?
+![GridShare2](https://user-images.githubusercontent.com/86527202/138718592-f47136b8-ad83-426a-a3f2-ccb0fd8f6ab2.gif)
 
 
---------------------------
+------------------------------------------
 
+## FORM Views
+```**FORM views**``` provide easy access to gather information from different people, record them in database and are easy to create using existing fields of database table. 
 
-
-``` FORM views``` are easy to create using existing fields of database. They simplify recording information from different people on to the database.
-
-## Features
+### Features
 - Customize form view with ease- drag/drop fields that you need
-- Mark fields as must required (mandatory)
-- Validation based on field datatype
-- [Optional] Add additional information/instruction for form fields
-- Create/ share any number of Unique FORMs
+- Validation supported based on field datatype
+- Create/ share any number of unique form views
 - Protect shared view access using a Password
-- Copy/duplicate existing view as base for a new view, instead of always starting afresh
+- Copy existing view as base for a new view, instead of always starting afresh
+- Mark specific fields as *must fill*
+- Add additional information/instruction for form fields
+- Configure to get form submission updates over mail
 
-
-(For discusssion)
-- Auto delete view link after so & so hours/ days/ weeks. Specify this information during view creation
-- Group view (airTable)
-- Download data
-
-
-
+### How to Create, customize & share?
+![FormShare](https://user-images.githubusercontent.com/86527202/138718626-bc206278-0955-420b-95ca-d4261772b6ed.gif)
 
